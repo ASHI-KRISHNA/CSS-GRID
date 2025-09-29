@@ -1,0 +1,28 @@
+
+body{
+    background-color: hsl(167, 58%, 86%);
+}
+#box1{
+    background-color: hsla(120, 100%, 38%, 0.842);
+}
+#box2{
+    background-color: hsla(120, 100%, 38%, 0.842);
+}
+#box3{
+    background-color: red;
+}
+#box4{
+    background-color: rgb(255, 255, 75);
+}
+#box5{
+    background-color: red;
+}
+#box6{
+    background-color: hsla(120, 100%, 38%, 0.842);
+}
+#box7{
+    background-color: red;
+}
+#box8{
+    background-color: rgb(255, 255, 75);
+}
