@@ -8,6 +8,7 @@
     margin: 200px;
     background-color: black;
     padding: 10px;
+
 }
 
 body {
@@ -16,10 +17,14 @@ body {
 
 #box1 {
     background-color: hsla(120, 100%, 38%, 0.842);
+    grid-row-start: 1;
+    grid-row-end: 4;
 }
 
 #box2 {
     background-color: hsla(120, 100%, 38%, 0.842);
+    grid-column-start: 2;
+    grid-column-end: 4;
 }
 
 #box3 {
@@ -36,6 +41,9 @@ body {
 
 #box6 {
     background-color: hsla(120, 100%, 38%, 0.842);
+    grid-row-start: 2;
+    grid-row-end: 4;
+    grid-column: 4;
 }
 
 #box7 {
